@@ -1,0 +1,110 @@
+2025:06:16	19:43:00	7a17aff5-e3b6-49d5-9f65-d8de29e13cf2	GET	undefined	/
+
+2025:06:16	19:43:25	9efeeac5-a9bd-4a7c-8dee-d87190ef81a9	GET	undefined	/index.htm;
+
+2025:06:16	19:43:29	662775dd-b3f3-4580-8db3-1186c3dfec98	GET	undefined	/index.html
+
+2025:06:16	19:43:33	a6239d07-159b-4cf9-8b21-57df91348680	GET	undefined	/index
+
+2025:06:16	19:43:38	439f20ca-f8b9-4679-9146-b83eb34f8b0c	GET	undefined	/new-page
+
+2025:06:16	19:43:38	d7f29059-b5e9-4405-85f2-757d57dae846	GET	undefined	/img/img1.jpg
+
+2025:06:16	19:43:44	c68cdf45-0910-470b-883c-d70bed4e1fcf	GET	undefined	/new-page.html
+
+2025:06:16	19:43:44	fbcc16f2-3b1e-4513-a77a-0b1a8f8f4b6f	GET	undefined	/img/img1.jpg
+
+2025:06:16	19:43:51	8178729e-68b9-4d21-a08c-282960569831	GET	undefined	/new
+
+2025:06:17	18:34:29	26be1f5c-2a8f-46f3-b83a-7cb311e5b4af	GET	undefined	/index
+
+2025:06:17	18:34:29	a6b6da13-01b8-48fe-bcdf-f8126e055e23	GET	undefined	/favicon.ico
+
+2025:06:17	18:34:45	c5db91de-0f60-4572-8eeb-8b8e92709318	GET	undefined	/new-page
+
+2025:06:17	18:34:45	eed05bec-5a1f-4329-9162-e2805aa05d82	GET	undefined	/img/img1.jpg
+
+2025:06:17	18:34:51	5c29416c-bdfb-43cf-b373-5c918c57bd11	GET	undefined	/old-page
+
+2025:06:17	18:34:51	799ecd3f-6809-4853-bfa0-86895c85c68d	GET	undefined	/new-page.html
+
+2025:06:17	18:34:51	7c3b3d86-0f32-4a3e-9f68-b49475efa665	GET	undefined	/img/img1.jpg
+
+2025:06:17	18:35:00	cb17c786-52b7-4b71-860d-e6e4016e2d8d	GET	undefined	/new-pa
+
+2025:06:17	18:35:15	55d1c3d6-4f1f-408a-9d3f-5284a4fb25e1	GET	undefined	/
+
+2025:06:17	18:35:19	b9d9eaba-88de-4041-ba9f-0b7e699c83a7	GET	undefined	/new-page.html
+
+2025:06:17	18:35:19	7f9caf3e-8a78-4fb1-823d-d8a6b38b9bd4	GET	undefined	/img/img1.jpg
+
+2025:06:17	18:35:26	231c6798-e25d-47af-a620-86c0017d106e	GET	undefined	/new-p.json
+
+2025:06:17	19:18:17	894b46d0-c1fc-4171-81f9-b6a503b4271e	GET	undefined	/test-error
+
+2025:06:17	19:29:42	bff468ef-9934-41e5-9f2d-e80ba59ac7f9	GET	undefined	/
+
+2025:06:17	19:29:42	36624bab-f7d3-4ce6-981f-8c11e7203c70	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\nodejs_web_server-main\views\index.html'
+
+2025:06:17	19:29:54	154a3b4e-a6c0-44a3-aaff-9ab911eb215a	GET	undefined	/new-page
+
+2025:06:17	19:29:54	ddeebafe-5ac8-4913-b7d7-d5f0d69b2eb9	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\nodejs_web_server-main\views\new-page.html'
+
+2025:06:17	19:39:59	cbc70070-c779-42d9-aa40-023c0da03af1	GET	undefined	/index.html
+
+2025:06:17	19:39:59	c0cd3673-12ba-4c13-bb93-7c2bcd10f27d	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\nodejs_web_server-main\views\index.html'
+
+2025:06:17	19:40:39	4f148186-e149-42f7-bbd6-67733606e26c	GET	undefined	/subdir/index.html
+
+2025:06:17	19:40:39	c6a6b7d6-fead-475c-baa0-59007dae2cc4	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\nodejs_web_server-main\views\subdir\index.html'
+
+2025:06:17	19:58:48	e2404dfc-edf0-4018-a6bd-b0074ab87dea	GET	undefined	/api/index.html
+
+2025:06:17	19:59:18	2f419ad6-5eab-4cf7-a251-ce2245b0de58	GET	undefined	/api/data.employees
+
+2025:06:17	19:59:20	8113e102-5916-4fdc-9967-9bccd896cb30	GET	undefined	/api/data.employees
+
+2025:06:17	20:00:46	06d2964e-e866-48e8-8bc8-e8d064eb49ac	GET	undefined	/api/employee/data.employees
+
+2025:06:17	20:01:13	312a6739-ae30-4cf6-925f-17e1451892ca	GET	undefined	/api/employee
+
+2025:06:17	20:01:33	c371f437-7437-4ff1-bb48-3d14d27d699c	PUT	undefined	/api/employee
+
+2025:06:17	20:01:33	89f167fc-32a1-45c9-9db3-b20785655690	TypeError:Cannot read properties of undefined (reading 'firstname')
+
+2025:06:17	20:01:46	250a4202-6455-4a6e-9766-f0e9ef18d8e2	GET	undefined	/api/employee
+
+2025:06:17	20:02:04	fb4bcb72-5b39-4715-b06a-6e9dd7b6c8aa	GET	undefined	/api/employee/
+
+2025:06:17	20:02:10	3686766d-457b-4d46-83df-55b029708ab7	PUT	undefined	/api/employee/
+
+2025:06:17	20:02:10	1cfd36e9-79b3-4c4f-88bc-62bd82e6302b	TypeError:Cannot read properties of undefined (reading 'firstname')
+
+2025:06:17	20:02:40	3900a1f2-b658-44d0-b1de-ca73fca3c593	PUT	undefined	/api/employee/?%22one%22=%22two%22
+
+2025:06:17	20:02:40	6c6e4034-74ec-4e80-9e9b-6a3883293d04	TypeError:Cannot read properties of undefined (reading 'firstname')
+
+2025:06:17	20:02:56	9313484d-00bb-458a-a2f1-a7899a554137	PUT	undefined	/api/employee/?%22one%22=%22two%22
+
+2025:06:17	20:02:56	fa9d8f46-9a82-4084-9b27-ee3ce6461d03	TypeError:Cannot read properties of undefined (reading 'firstname')
+
+2025:06:17	20:03:40	71518189-a5c9-49fa-aef3-b075823a2242	GET	undefined	/api/employee/
+
+2025:06:17	20:03:56	447fd743-a868-4e1b-94db-112ba29e063a	PUT	undefined	/api/employee/
+
+2025:06:17	20:03:56	dbe81857-b217-4acb-bfdd-3d5af0bc618f	TypeError:Cannot read properties of undefined (reading 'firstname')
+
+2025:06:17	20:07:17	20a035b6-0fd0-460b-b69c-6a3823067081	PUT	undefined	/api/employee/
+
+2025:06:17	20:07:30	04a35e01-6c3e-4f9e-8546-dc68398792c0	POST	undefined	/api/employee/
+
+2025:06:17	20:07:36	e2b4555f-7747-4a52-a77e-bba3b32971c7	POST	undefined	/api/employee/
+
+2025:06:17	20:07:57	af2e3ea8-79f2-41b2-b650-d82f8c10b5c3	DELETE	undefined	/api/employee/
+
+2025:06:17	20:08:11	d11c3a38-7860-4b59-ae2d-c497b53cd161	GET	undefined	/api/employee/
+
+2025:06:17	20:08:30	7ee54d34-0f8f-4230-b9cc-8c1d384de46f	DELETE	undefined	/api/employee/
+
+2025:06:17	20:08:35	306f59ff-3695-4055-8cc7-0dc7243f87bd	GET	undefined	/api/employee/
+
