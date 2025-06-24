@@ -108,3 +108,223 @@
 
 2025:06:17	20:08:35	306f59ff-3695-4055-8cc7-0dc7243f87bd	GET	undefined	/api/employee/
 
+2025:06:19	11:57:25	8c5e545e-e882-4eb5-a3be-6918790e9af2	GET	undefined	/
+
+2025:06:19	11:57:25	df42e600-f8f5-4e09-95e1-45cc999d1314	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	11:57:26	10a97e22-0847-4473-93a1-6f38d9b0a548	GET	undefined	/favicon.ico
+
+2025:06:19	12:00:40	ef249137-99e2-47f9-b91e-007d89346793	GET	undefined	/hh
+
+2025:06:19	12:02:08	d80bb9ff-574a-4c66-8008-706e24e07f47	GET	undefined	/
+
+2025:06:19	12:02:08	3daf03e6-41b5-4c16-91c0-a46978f553a0	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	12:02:16	61185f06-7e95-4e50-8399-924dfe76fd68	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+
+2025:06:19	18:08:05	9340769c-31ee-4cfc-8ddd-ef9929a51408	GET	undefined	/
+
+2025:06:19	18:08:05	37bd1694-14cf-4b9e-ada9-48651315a931	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	18:10:22	6aaa412b-56fe-40ee-83a7-f3f53a328d63	GET	undefined	/
+
+2025:06:19	18:10:22	d58aebc7-5dac-4203-8c1d-6253cebfed81	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	18:11:07	3cb946bc-5042-4f59-b83f-243e1e425ce8	GET	undefined	/
+
+2025:06:19	18:11:07	57052d13-1ebd-45db-9c03-440e4ccc9c93	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	18:11:43	993882e6-0610-442a-bda9-881281fca611	GET	undefined	/
+
+2025:06:19	18:11:43	a5b9bc6a-c694-4dfc-840a-a7c8a67cbe3f	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	18:16:43	45223bda-ac36-47b4-94ed-0038adf2948a	GET	undefined	/
+
+2025:06:19	18:16:43	8a865647-df4a-4648-a00b-07607087e12b	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	18:16:59	510c771f-81ff-431c-939f-798f3e2c94d4	GET	undefined	/
+
+2025:06:19	18:16:59	a1c2d257-110a-4a5d-8a73-d310a15b5c01	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	18:19:14	df6d39dd-59af-4437-9798-a2e37d704a6b	GET	undefined	/
+
+2025:06:19	18:19:14	735a3f82-7396-49f8-a9eb-73a35ad08d28	Error:ENOENT: no such file or directory, stat 'E:\MERN\backend\routes\api\nodejs_web_server-main\views\index.html'
+
+2025:06:19	19:44:26	e3172e42-cb8c-4f3e-bd77-15dd5b7ff451	GET	undefined	/
+
+2025:06:19	19:44:47	555ad721-ed63-43b0-a945-85cf38374632	POST	undefined	/register
+
+2025:06:19	19:44:52	e1d1d846-78eb-4596-8d88-7f7107eeb6d7	POST	undefined	/register
+
+2025:06:19	19:45:21	3f5ebd1b-cab3-4f84-8fd1-d26c61b46270	POST	undefined	/register
+
+2025:06:19	19:45:54	f05b2f71-bc41-4506-9a27-ca76d6216849	POST	undefined	/auth
+
+2025:06:19	19:46:01	f02327d0-3bd0-4ff5-a1b8-18bae2ed49e4	POST	undefined	/auth
+
+2025:06:19	19:47:32	bb85f647-785b-499a-9a5a-b736fa5e51d9	POST	undefined	/register
+
+2025:06:19	19:48:54	95ec9002-ccef-4461-ac10-e492a4aebe40	POST	undefined	/register
+
+2025:06:19	19:50:56	2be61064-8dac-4b58-8cec-2b3620b3353f	POST	undefined	/register
+
+2025:06:19	19:52:00	e309d887-8755-451a-8640-d4cb6d3f4489	POST	undefined	/register
+
+2025:06:19	19:53:16	8e9a3a3a-f109-445b-87ef-8a7ebd4f97b4	POST	undefined	/api/register
+
+2025:06:19	20:38:10	169ed872-2894-468d-b4d3-0a15d2015a2f	POST	undefined	/api/employee
+
+2025:06:19	20:40:34	5a23885a-0bff-4da5-a79e-94ed0f55a373	POST	undefined	/auth%0A
+
+2025:06:19	20:47:27	82f9bd44-6644-4fe1-afdf-4e4153e13bfd	POST	undefined	/auth/login
+
+2025:06:19	20:48:40	d6e5b2a7-b059-42e4-83f4-82f5cc5f48cb	POST	undefined	/auth/login
+
+2025:06:19	20:58:57	ab027f9b-399e-4e2d-814d-28317b30c7d3	POST	undefined	/auth/login
+
+2025:06:19	21:01:11	48fcd701-5dad-4a27-a545-25b1a7052751	POST	undefined	/auth/login
+
+2025:06:19	21:01:22	b199029d-6737-4d7d-aaed-55e52b31b203	POST	undefined	/auth/login
+
+2025:06:19	21:04:28	96b503b4-1ea7-4d99-aeac-4f07ebf0ffb6	POST	undefined	/auth/login
+
+2025:06:19	21:04:30	021c02bc-3170-4179-9bae-af46d7953fa9	POST	undefined	/auth/login
+
+2025:06:19	21:04:32	520e79ab-bf02-4054-b92c-651de7cc3aa2	POST	undefined	/auth/login
+
+2025:06:19	21:04:42	50f7bd68-2fbb-4208-984e-9d1ce97f06af	POST	undefined	/auth/login
+
+2025:06:19	21:04:51	21b57703-cf89-471b-8277-0e75316bde35	POST	undefined	/auth
+
+2025:06:20	10:23:35	eaea16e8-9ef1-4fa7-9554-3e4735a9098a	POST	undefined	/auth
+
+2025:06:20	10:23:43	f1c867dd-d7d2-4d67-b4be-28bdacb1609c	POST	undefined	/auth
+
+2025:06:20	10:23:53	839bfc00-38b2-466f-a7e7-0d35f741bb16	POST	undefined	/auth/login
+
+2025:06:20	10:24:01	0044801b-a2fb-4502-b4df-bc256ef778b8	POST	undefined	/auth/signin
+
+2025:06:20	18:37:55	688caa3f-879b-44e6-bc22-5caf434fb677	POST	undefined	/auth
+
+2025:06:20	18:39:59	253c6c32-a9d1-4f9c-a7e4-e4f4a768eaf0	POST	undefined	/auth
+
+2025:06:20	19:17:12	bb1e9e8b-6342-4de0-98d2-2d0ff10587a0	POST	undefined	/register
+
+2025:06:20	19:18:38	785c4f7c-9d9d-40ca-8cf8-bda1cb3e49df	POST	undefined	/register
+
+2025:06:20	19:20:09	08df992c-5882-406e-a5d9-c7595d74eb4e	POST	undefined	/register
+
+2025:06:20	19:21:39	85ee5175-6850-46be-823e-ec88a3ddd6d7	POST	undefined	/register
+
+2025:06:20	19:36:50	8ee14157-b35c-47bf-aacb-46cdde7aa15e	POST	undefined	/auth
+
+2025:06:20	19:37:02	789814d3-2e4d-473f-a200-8e0882748659	GET	undefined	/auth
+
+2025:06:20	19:37:02	21439315-3c76-4043-91f2-d1ffc7b895d4	Error:ENOENT: no such file or directory, stat 'E:\MERN\views\index.html'
+
+2025:06:20	19:39:06	dd480435-54d2-49ae-a25e-131b50bde0d6	POST	undefined	/auth
+
+2025:06:20	19:40:04	cde231b5-da94-47b7-adc1-05f718b460eb	PUT	undefined	/api/employee
+
+2025:06:20	19:42:49	b74852ba-7e2e-47f9-8d65-9baddd008cdc	POST	undefined	/auth
+
+2025:06:20	19:45:15	5dbe0939-72c2-44f7-931f-cd66729e0788	POST	undefined	/auth
+
+2025:06:20	19:45:19	42ee35aa-95ea-4e52-8933-3fb10ce71c75	POST	undefined	/auth
+
+2025:06:20	19:54:15	c3b43f1d-33ee-4c0c-850e-4929461d7c70	POST	undefined	/auth
+
+2025:06:20	19:54:52	242ee0db-571d-478e-8f62-1b93a97ebb8c	POST	undefined	/auth
+
+2025:06:20	19:55:41	1ed6a804-90e6-4a1c-a853-b3c4db9ef778	POST	undefined	/auth/login
+
+2025:06:20	20:12:36	378a70d1-76f4-4686-b35d-95a87d5aed6a	SyntaxError:Expected double-quoted property name in JSON at position 59
+
+2025:06:20	20:12:44	f7eff378-0cac-458e-b70a-00464e40ee0a	POST	undefined	/register
+
+2025:06:20	20:13:08	8f0652c8-56bb-41a5-9c33-b36881d6905e	POST	undefined	/register
+
+2025:06:20	20:13:21	78783699-91d3-4974-beb1-b1db08ef276e	POST	undefined	/register
+
+2025:06:20	20:13:42	9e2c2fc5-4815-4a4c-a33c-03d650ce2583	GET	undefined	/auth
+
+2025:06:20	20:13:42	2d8bf96c-6938-4712-89e2-bfefbf68009b	Error:ENOENT: no such file or directory, stat 'E:\MERN\views\index.html'
+
+2025:06:20	20:13:53	8a9ab9f7-df58-4098-b4e0-b6d7848bc7d5	GET	undefined	/auth/login
+
+2025:06:20	20:14:00	e6bed325-5f05-4ec1-b694-cbb8b13af811	POST	undefined	/auth/login
+
+2025:06:20	20:14:00	677a207a-02bc-43ca-8d7b-5f65a39327c4	TypeError:Cannot convert undefined or null to object
+
+2025:06:20	20:14:09	6aa5b24b-aadd-49ef-937d-d08518f6f99b	PUT	undefined	/auth/login
+
+2025:06:20	22:59:26	197a0176-6294-4711-aa15-1fdd35eb9c8d	GET	undefined	/favicon.ico
+
+2025:06:21	16:46:15	83b58263-b6a9-4a05-805d-e1cb0d1940b1	POST	undefined	/register
+
+2025:06:21	16:46:49	95a5232a-a6d2-4a44-b2b7-65ea8abde8a9	POST	undefined	/auth
+
+2025:06:21	16:46:55	c530316d-166e-4f84-bf6d-c93f2f96a2e5	POST	undefined	/auth/login
+
+2025:06:21	16:46:55	e08063a6-e793-4af3-b607-c66fc2da61fe	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:50:14	a75d392a-da3e-4b15-a20a-e812bee30371	POST	undefined	/auth/login
+
+2025:06:21	16:50:14	2c3651dd-a18b-4536-9bdf-a1155d4b3c6f	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:50:44	5c63580e-05b8-4714-908c-505e204af0d3	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:50:44	a5196e4f-d6e7-4ec7-8c6c-cb1d1b9d6f03	POST	undefined	/auth/login
+
+2025:06:21	16:52:56	9b8fd36e-3847-4a14-9230-2fd8dc04e947	POST	undefined	/auth/login
+
+2025:06:21	16:52:56	0597060c-b475-4716-aa3e-74b2fdc2c9a3	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:53:05	7f7b9448-377b-4a16-b14b-2c9e77e16865	POST	undefined	/auth/login
+
+2025:06:21	16:53:05	b99bd6d1-a714-4c8f-9c49-9ecf06a8b458	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:53:15	3911657e-c7af-4b7b-9d6f-eaf6e4e93411	POST	undefined	/auth/login
+
+2025:06:21	16:53:15	c9c3123d-34d1-4edd-8db0-fe01dc1e703e	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:53:45	1810ba6c-d87e-4026-a92f-73882b4e28ae	POST	undefined	/auth/login
+
+2025:06:21	16:53:45	0b395336-b094-4f67-af00-5459a7e366ab	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:53:47	2a9f3505-6e94-4379-ba99-b22af3caf893	POST	undefined	/auth/login
+
+2025:06:21	16:53:47	857223a7-3105-40bd-ac89-0335adac7e8a	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:54:36	630327a5-f017-4dc2-8803-bdb744cd3027	TypeError:Cannot convert undefined or null to object
+
+2025:06:21	16:54:35	08b23b8b-c8be-4aa6-8246-9faf397ef6a7	POST	undefined	/auth/login
+
+2025:06:21	16:56:04	24cc66b2-cb7d-4ffd-9b7b-574b6c1850a4	POST	undefined	/auth/login
+
+2025:06:21	17:23:15	c4ccfa45-3b46-43a7-a923-b3048120105c	GET	undefined	/api/employees
+
+2025:06:21	17:23:38	84e03b0a-f9c1-46e6-bf9f-32257168aa2e	GET	undefined	/employees
+
+2025:06:21	17:24:42	c30cd041-9217-4614-9d25-766818f916db	GET	undefined	/api/employees
+
+2025:06:21	17:28:38	91e73c8c-f851-40f9-a253-de461df969a7	GET	undefined	/api/employees
+
+2025:06:21	17:30:46	acae9f30-503c-4742-b676-4264a7a5d36c	GET	undefined	/api/employees
+
+2025:06:21	17:33:05	3ab3608f-42b8-4c7e-9642-57b03f3fa97d	GET	undefined	/api/employee
+
+2025:06:21	17:33:05	34733e63-5450-44f5-8438-88f26790a39d	ReferenceError:decoded is not defined
+
+2025:06:21	17:36:44	0f0dd021-9ed9-4028-afc5-97593e74106f	GET	undefined	/api/employee
+
+2025:06:21	17:37:57	de203be3-16ea-428a-90bb-e813abf4ee5b	POST	undefined	/auth/login
+
+2025:06:21	17:38:19	8b15591f-7068-4ecf-a667-84ac84089626	GET	undefined	/api/employee
+
+2025:06:24	19:09:03	1ad492dc-02b4-4b0c-8b63-89621431fe9f	GET	undefined	/
+
+2025:06:24	19:09:03	99b15710-4388-4f18-ab53-b641767aec65	Error:ENOENT: no such file or directory, stat 'E:\MERN\views\index.html'
+
+2025:06:24	19:09:03	db7f72b1-75e9-43f3-967f-5c709db5f024	GET	undefined	/favicon.ico
+

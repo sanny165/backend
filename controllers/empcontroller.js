@@ -4,7 +4,7 @@ const employeeRouter=express.Router()
 const fs=require('fs')
 
 const data={
-    employees:require(path.join(__dirname, '../nodejs_web_server-main/models/employees.json')),
+    employees:require(path.join(__dirname,'..','models','employees.json')),
     setemployee:function(data){
         this.employees=data
     }
@@ -41,12 +41,18 @@ const createemployee=((req,res)=>{
     }
     data.setemployee([...data.employees,newemployee])
     res.status(201).json(newemployee)
-    fs.writeFile(path.join(__dirname, '..', 'nodejs_web_server-main', 'models', 'employees.json'), JSON.stringify(data.employees),(err)=>{
-    if(err){
-        console.error(err)
+    fs.writeFile(
+    path.join(__dirname, '..', 'models', 'employees.json'),
+    JSON.stringify(data.employees, null, 2),
+    (err) => {
+      if (err) {
+        console.error(err);
+      }
     }
+  );
 })
-})
+
+
 const deleteemployee=((req,res)=>{
     const employee=data.employees.find(emp=>emp._id===parseInt(req.body.id))
     if(!employee){
@@ -56,7 +62,18 @@ const deleteemployee=((req,res)=>{
         emp=>emp._id!==parseInt(req.body.id)
     )
     data.setemployee([...filterarray])
-    res.json(data.employees)
+    fs.writeFile(
+    path.join(__dirname, '..', 'models', 'employees.json'),
+    JSON.stringify(data.employees, null, 2),
+    (err) => {
+      if (err) {
+        console.error(err);
+        return res.status(500).json({ "message": "Error writing to file" });
+      }
+
+      res.json({ message: "Employee deleted", employees: data.employees });
+    }
+  );
 })
 const getemployee=((req,res)=>{
         const employee=data.employees.find(emp=>emp._id===parseInt(req.params.id))
@@ -65,7 +82,6 @@ const getemployee=((req,res)=>{
         }
         res.json(employee)
     })
-
 
 
 module.exports={

@@ -1,0 +1,8 @@
+24:06:2025	20:52:57	2ab57406-a1f0-4365-88a7-61e104da1c5d	Error: Cannot set headers after they are sent to the client
+24:06:2025	20:54:58	8cb02ecf-c973-4413-959a-e11a9ae000f3	Error: Cannot set headers after they are sent to the client
+24:06:2025	20:55:10	30b3e391-6fb1-499d-b2f1-e28bf2bb6ca9	Error: Cannot set headers after they are sent to the client
+24:06:2025	21:07:51	0f15aa45-8a49-4622-9dc1-05abf0b62f2c	TypeError: req.roles.map is not a function
+24:06:2025	21:07:58	88672f90-d72f-4efa-850f-765c0856b739	TypeError: req.roles.map is not a function
+24:06:2025	21:58:26	aa34f906-cdf5-4fd6-bb25-40a18e150bd6	Error: Cannot set headers after they are sent to the client
+24:06:2025	22:00:05	27cfcdd4-f37d-4559-abbf-b779484d0e66	Error: Cannot set headers after they are sent to the client
+24:06:2025	22:00:10	2423a6ea-4856-4689-88a9-077926679d0a	Error: Cannot set headers after they are sent to the client
