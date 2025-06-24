@@ -21,6 +21,8 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname,'public'))) //helps us use static files directly
 
 //3rd part
+const credentials = require('./middleware/credentials');
+app.use(credentials);
 const cors=require('cors')
 const corsoptions=require('./config/corsoptions');
 app.use(cors(corsoptions)) //allows cross origin requests
